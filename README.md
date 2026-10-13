@@ -2,3 +2,6 @@
 “I don’t need a jewel that reeks with a scent of echidnas.”
 </pre>
 
+<p align="center">
+  💎
+</p>
